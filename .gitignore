@@ -144,4 +144,4 @@ dmypy.json
 .pyre/
 
 # MacOS files
-.DS_Store
+.DS_Store.worktrees/
